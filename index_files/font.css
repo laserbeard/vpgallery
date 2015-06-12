@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'ALS Story';
+  src: url('ALS Story Regular.eot'); /* IE9 Compat Modes */
+  src: url('ALS Story Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('ALS Story Regular.woff') format('woff'), /* Modern Browsers */
+       url('ALS Story Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('ALS Story Regular.svg#d72e8c483df0c7194dceb4fb2ddc6cc3') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'ALS Story';
+  src: url('ALS Story Bold.eot'); /* IE9 Compat Modes */
+  src: url('ALS Story Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('ALS Story Bold.woff') format('woff'), /* Modern Browsers */
+       url('ALS Story Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('ALS Story Bold.svg#82e7bd880851edf1358ea1a30db5abd3') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+
+@font-face {
+  font-family: 'ALSStory';
+  src: url('ALS Story Regular.eot'); /* IE9 Compat Modes */
+  src: url('ALS Story Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('ALS Story Regular.woff') format('woff'), /* Modern Browsers */
+       url('ALS Story Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('ALS Story Regular.svg#d72e8c483df0c7194dceb4fb2ddc6cc3') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'ALSStory';
+  src: url('ALS Story Bold.eot'); /* IE9 Compat Modes */
+  src: url('ALS Story Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('ALS Story Bold.woff') format('woff'), /* Modern Browsers */
+       url('ALS Story Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('ALS Story Bold.svg#82e7bd880851edf1358ea1a30db5abd3') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+
+
+@font-face {
+  font-family: 'ALS Story';
+  src: url('ALS Story Italic.eot'); /* IE9 Compat Modes */
+  src: url('ALS Story Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('ALS Story Italic.woff') format('woff'), /* Modern Browsers */
+       url('ALS Story Italic.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('ALS Story Italic.svg#0b01138696627d63d56bc62f9cd42151') format('svg'); /* Legacy iOS */
+       
+  font-style:   italic;
+  font-weight:  400;
+}
+
+
